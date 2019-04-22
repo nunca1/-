@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<layouttype>thumbnail</layouttype>
+
+<channel>
+<name>FILMES</name>
+<thumbnail>https://i.imgur.com/aqRcjq7.jpg</thumbnail>
+<externallink>http://organisational-need.000webhostapp.com/system/Categoria_Filmes.xml</externallink>
+<fanart>https://i.imgur.com/F51CVVS.jpg</fanart>
+</channel>
+ 
+
+<channel>
+<name>SÉRIES</name>
+<thumbnail>https://i.imgur.com/7lHHPEC.jpg</thumbnail>
+<externallink>https://organisational-need.000webhostapp.com/system/Categoria_Series.xml</externallink>
+<fanart>http://citacoescinefilas.com.br/wp-content/uploads/2016/01/abertura-melhores-series-TV-foto-citacoes-cinefilas.png</fanart>
+</channel>

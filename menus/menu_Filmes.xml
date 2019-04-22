@@ -1,0 +1,20 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+</channels><channel>
+<name>Lançamentos</name>
+<thumbnail>https://goo.gl/lvxpv1</thumbnail>
+<externallink>http://organisational-need.000webhostapp.com/Filmes/Lan%C3%A7amentos.xml</externallink>
+<fanart>https://goo.gl/4tri3d</fanart>
+<info></info>
+</channel>
+
+
+</channels><channel>
+<name>Filmes Crackle</name>
+<thumbnail>https://lh4.ggpht.com/3P0k-RDHxiikjmlaJPBNNPu4q_PNtIkN2NLkjNaT66YxATEmwnRHuKPMAmSORXCytg</thumbnail>
+<externallink>http://organisational-need.000webhostapp.com/Filmes/Filmes_Crackle.xmll</externallink>
+<fanart>https://tecnodia.com.br/wp-content/uploads/2014/07/wallpapers-filmes.jpg</fanart>
+<info>Crackle é uma rede de vídeo em multiplataforma, caracterizado comercialmente com suporte a streaming para conteúdo de vídeo no formato Flash vídeo. É de propriedade da Sony Pictures Entertainment, e seu conteúdo consiste basicamente na biblioteca da Sony de filmes e programas de televisão.</info>
+</channel>
