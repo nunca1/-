@@ -1,7 +1,6 @@
 <layouttype>thumbnail</layouttype>
 
 <channels>
-
 </channels><channel>
 <name>Arronw</name>
 <thumbnail>https://goo.gl/lvxpv1</thumbnail>
@@ -10,6 +9,14 @@
 <info></info>
 </channel>
 
+<channels>
+</channels><channel>
+<name>Game of Thrones</name>
+<thumbnail>https://i.imgur.com/rTpDaAr.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nunca1/-/master/series/Game%20of%20Thrones/menu.xml</externallink>
+<fanart>https://i.imgur.com/Wh8ZGKm.jpg</fanart>
+<info></info>
+</channel>
 
 </channels><channel>
 <name>Pablo Escobar: O Senhor do Tráfico</name>
