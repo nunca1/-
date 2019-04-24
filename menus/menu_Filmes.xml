@@ -1,16 +1,12 @@
 <layouttype>thumbnail</layouttype>
 
-<channels>
-
-</channels><channel>
+<channel>
 <name>Lançamentos</name>
 <thumbnail>https://goo.gl/lvxpv1</thumbnail>
 <externallink>https://raw.githubusercontent.com/nunca1/-/master/filmes/Lan%C3%A7amentos.xml</externallink>
 <fanart>https://goo.gl/4tri3d</fanart>
 <info></info>
 </channel>
-
-</channels>
 
 <channel>
 <name>Filmes Crackle</name>
@@ -20,8 +16,6 @@
 <info>Crackle é uma rede de vídeo em multiplataforma, caracterizado comercialmente com suporte a streaming para conteúdo de vídeo no formato Flash vídeo. É de propriedade da Sony Pictures Entertainment, e seu conteúdo consiste basicamente na biblioteca da Sony de filmes e programas de televisão.</info>
 </channel>
 
-
-</channels>
 
 <channel>
 <name>Marvel | UCM</name>
