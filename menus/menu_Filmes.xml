@@ -10,11 +10,18 @@
 <info></info>
 </channel>
 
-
 </channels><channel>
 <name>Filmes Crackle</name>
 <thumbnail>https://lh4.ggpht.com/3P0k-RDHxiikjmlaJPBNNPu4q_PNtIkN2NLkjNaT66YxATEmwnRHuKPMAmSORXCytg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nunca1/-/master/filmes/Filmes_Crackle.xml</externallink>
 <fanart>https://tecnodia.com.br/wp-content/uploads/2014/07/wallpapers-filmes.jpg</fanart>
 <info>Crackle é uma rede de vídeo em multiplataforma, caracterizado comercialmente com suporte a streaming para conteúdo de vídeo no formato Flash vídeo. É de propriedade da Sony Pictures Entertainment, e seu conteúdo consiste basicamente na biblioteca da Sony de filmes e programas de televisão.</info>
+</channel>
+
+</channels><channel>
+<name>Marvel</name>
+<thumbnail>https://cdn11.bigcommerce.com/s-2zs1uo/images/stencil/1024x1024/products/257/6198/MarvelLogoBookends1__75639.1514587078.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nunca1/-/master/filmes/UCM.xml</externallink>
+<fanart>https://i.ytimg.com/vi/Fnes11TD16s/maxresdefault.jpg</fanart>
+<info>O Marvel Cinematic Universe é uma franquia de mídia americana e um universo compartilhado centrado em uma série de filmes de super-heróis, produzida independentemente pela Marvel Studios e baseada em personagens que aparecem nas revistas em quadrinhos americanas publicadas pela Marvel Comics.</info>
 </channel>
