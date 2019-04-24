@@ -1,7 +1,4 @@
-<layouttype>thumbnail</layouttype> 
- 
- 
- <item>
+<item>
 <title>[COLOR white][B]Close[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1VmfLqK0qVxwiDBpcWbJ-a-mz3SNjgHfy</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzI5OTUzZjktMDE4Zi00YjE3LWIzNWQtNDFjZWQyMDVkY2I1XkEyXkFqcGdeQXVyMTg1MzYyMzQ@._V1_.jpg</thumbnail>
