@@ -1,6 +1,7 @@
 <layouttype>thumbnail</layouttype>
 
-<channel>
+<channels>
+</channels><channel>
 <name>Lançamentos</name>
 <thumbnail>https://goo.gl/lvxpv1</thumbnail>
 <externallink>https://raw.githubusercontent.com/nunca1/-/master/filmes/Lan%C3%A7amentos.xml</externallink>
@@ -8,7 +9,8 @@
 <info></info>
 </channel>
 
-<channel>
+<channels>
+</channels><channel>
 <name>Filmes Crackle</name>
 <thumbnail>https://lh4.ggpht.com/3P0k-RDHxiikjmlaJPBNNPu4q_PNtIkN2NLkjNaT66YxATEmwnRHuKPMAmSORXCytg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nunca1/-/master/filmes/Filmes_Crackle.xml</externallink>
@@ -17,7 +19,8 @@
 </channel>
 
 
-<channel>
+<channels>
+</channels><channel>
 <name>Marvel | UCM</name>
 <thumbnail>https://cdn11.bigcommerce.com/s-2zs1uo/images/stencil/1024x1024/products/257/6198/MarvelLogoBookends1__75639.1514587078.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nunca1/-/master/filmes/UCM.xml</externallink>
