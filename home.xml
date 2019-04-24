@@ -7,7 +7,7 @@
 <channel>
 <name>FILMES</name>
 <thumbnail>https://i.imgur.com/aqRcjq7.jpg</thumbnail>
-<externallink>http://organisational-need.000webhostapp.com/system/Categoria_Filmes.xml</externallink>
+<externallink>https://raw.githubusercontent.com/nunca1/-/master/menus/menu_Filmes.xml</externallink>
 <fanart>https://i.imgur.com/F51CVVS.jpg</fanart>
 </channel>
  
